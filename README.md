@@ -245,4 +245,4 @@ int pipe(int fd[2]);//成功返回0， 否则-1
 
 * MOS内存布局图
 
-见include/mmu.h
+见[include/mmu.h](https://github.com/KouweiLee/BUAA_OS_2022/blob/lab6/include/mmu.h)
