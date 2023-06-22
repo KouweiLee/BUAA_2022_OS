@@ -2,7 +2,7 @@
 
 本仓库包含本人于2022年北航操作系统课设中的代码和文档。课设实现了1个完整的操作系统MOS，包含内存管理、进程管理、系统调用、文件系统等功能，同时包含一个Shell。MOS的实现过程共分布在6个Lab中，位于同名分支上，其中Lab6为完整的OS。
 
-另外本人完成了Lab4挑战性任务，根据POSIX标注实现了线程和加锁机制，具体实现方法见xxx。下面对本OS做个简要介绍。
+另外本人完成了Lab4挑战性任务，根据POSIX标注实现了线程和加锁机制，具体实现方法见[Lab4-Challenge-实验报告](https://github.com/KouweiLee/BUAA_OS_2022/blob/main/docs/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/%E6%8C%91%E6%88%98%E6%80%A7%E4%BB%BB%E5%8A%A1/Lab4-Challenge%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.md)。下面对本OS做个简要介绍。
 
 OS环境：
 
